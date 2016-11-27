@@ -1,0 +1,125 @@
+Team meeting on 16/11/2014 at 12:00 in La Fortuna
+
+Attending:
+  - Gabriele Gemmi
+  - Jorge Peláez
+  - Mariano González
+  - Javier Manzano
+
+Absences: 0
+
+Moderator: Gabriele Gemmi
+
+Writing Minute: Mariano González
+
+Agenda:
+ 1.- From 12:00 to 13:00 wait until all of us are there, get used to the workplace,
+     prepare the equipment, speak about how we will work.
+ 2.- From 13:00 to 16:00 work in the proyect. Each of us has a thing to do (an option
+     of the menu or an inportant function).
+ 3.- From 16:00 to 17:30 we had a big break and we had lunch.
+ 4.- From 17:30 to 19:00-19:30 we kept working, trying to fix the errors and warnings and 
+     implementing more functions.
+ 5.- At 19:00-19:30 we got home.
+
+================================================================================
+
+Actions:
+
+1.- Errors and warning fixing, insert function (Gabriele Gemmi)
+2.- Display functions (Jorge Peláez)
+3.- get_contribution function, get_author function(at the beginning we made a hash 
+    table of authors, each author with a linked list of contributions) (Mariano González)
+4.- Export function and print_contributions function (Javier Manzano)
+5.- All of us made an extra general work during this sesion, working in other functions
+
+Extra information:
+
+  Before this sesion we had done some things like the display of the menu or the data_read functions.
+  We also discussed in previous days how to implement the hash table.
+
+
+*******************************************************************************************************
+*******************************************************************************************************
+
+
+Team meeting on 19/11/2014 at 11:00 in UC3M Leganés (Systems Architecture laboratory)
+
+Attending:
+  - Gabriele Gemmi
+  - Jorge Peláez
+  - Mariano González
+
+Absences: 1
+  - Reason: work.
+
+Moderator: Jorge Peláez
+
+Writing Minute: Mariano González
+
+Agenda:
+ 1.- From 11:00 to 13:00 work in the proyect.
+
+Actions:
+
+1.- Fix the hash table in order to modify the nodes which now are publications instead of
+    authors (Gabliele Gemmi)
+2.- Fix the hash table in order to modify the nodes which now are publications instead of
+    authors (Jorge Peláez)
+3.- Fix the hash table in order to modify the nodes which now are publications instead of
+    authors (Mariano González)
+
+Extra information:
+
+  Before this sesion our proyect were more completed than after the last sesion because we worked algo in our
+  homes.
+
+  The teacher told us our hash table was wrong and we had to modified it. We had a hash table of author,
+  and each author had a linked list of contributions. After the fixing work we got a hash table of contributions
+
+  We also modify another aspects of the table because we finished the fixing before 13:00
+
+
+*******************************************************************************************************
+*******************************************************************************************************
+
+
+Team meeting on 26/11/2014 at 11:00 in UC3M Leganés (Systems Architecture laboratory)
+
+Attending:
+  - Gabriele Gemmi
+  - Jorge Peláez
+  - Mariano González
+
+Absences: 1
+  - Reason: work.
+
+Moderator: Gabriele Gemmi
+
+Writing Minute: Mariano González
+
+Agenda:
+ 1.- From 11:00 to 13:00 work in the proyect.
+
+Actions:
+
+1.- free functions and Ctrl+D function implementation (Gabliele Gemmi)
+2.- Import function (in order to do it he had to modify some aspects of export function) (Jorge Peláez)
+3.- resize function (in order to do it he had to modify some functions like hash function
+    or insert function) (Mariano González)
+
+Extra information:
+
+  Before this sesion our proyect were more completed than after the last sesion because we worked algo in our
+  homes.
+
+  At this point the proyect is close to be finised. We just had to fix some import problems, we had to implement
+  the DEBUG mode, finish the templates...
+
+
+*******************************************************************************************************
+*******************************************************************************************************
+
+We didn't have more meetings. But we did a lot of home at work.
+
+To do the project in group properly, we created a Whatsapp group and we used a Dropbox shared folder.
